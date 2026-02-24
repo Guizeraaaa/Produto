@@ -1,4 +1,6 @@
 🚀 API de Gerenciamento de Produtos (.NET)
+
+
 Esta Web API foi desenvolvida em ASP.NET Core para realizar o gerenciamento completo de produtos (CRUD). O projeto reflete a aplicação de padrões de arquitetura profissional e boas práticas de desenvolvimento backend em C#.
 
 🛠️ Destaques Técnicos
